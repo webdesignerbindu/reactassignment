@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactnpm%20assignment/static/css/main.d378a276.chunk.css",
+    "main.js": "/reactnpm%20assignment/static/js/main.43bd0c81.chunk.js",
+    "main.js.map": "/reactnpm%20assignment/static/js/main.43bd0c81.chunk.js.map",
+    "runtime-main.js": "/reactnpm%20assignment/static/js/runtime-main.75d4dbd5.js",
+    "runtime-main.js.map": "/reactnpm%20assignment/static/js/runtime-main.75d4dbd5.js.map",
+    "static/css/2.4be38407.chunk.css": "/reactnpm%20assignment/static/css/2.4be38407.chunk.css",
+    "static/js/2.bad6ff66.chunk.js": "/reactnpm%20assignment/static/js/2.bad6ff66.chunk.js",
+    "static/js/2.bad6ff66.chunk.js.map": "/reactnpm%20assignment/static/js/2.bad6ff66.chunk.js.map",
+    "static/js/3.5b9d5c8b.chunk.js": "/reactnpm%20assignment/static/js/3.5b9d5c8b.chunk.js",
+    "static/js/3.5b9d5c8b.chunk.js.map": "/reactnpm%20assignment/static/js/3.5b9d5c8b.chunk.js.map",
+    "index.html": "/reactnpm%20assignment/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/reactnpm%20assignment/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.d378a276.chunk.css.map": "/reactnpm%20assignment/static/css/main.d378a276.chunk.css.map",
+    "static/js/2.bad6ff66.chunk.js.LICENSE.txt": "/reactnpm%20assignment/static/js/2.bad6ff66.chunk.js.LICENSE.txt",
+    "static/media/ab11.9bff6a30.jpg": "/reactnpm%20assignment/static/media/ab11.9bff6a30.jpg",
+    "static/media/cock.bdf70eb4.jpg": "/reactnpm%20assignment/static/media/cock.bdf70eb4.jpg",
+    "static/media/home1.c71d8f3b.jpg": "/reactnpm%20assignment/static/media/home1.c71d8f3b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75d4dbd5.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.bad6ff66.chunk.js",
+    "static/css/main.d378a276.chunk.css",
+    "static/js/main.43bd0c81.chunk.js"
+  ]
+}
